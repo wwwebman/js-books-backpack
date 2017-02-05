@@ -9,7 +9,7 @@ I have discovered a lot of helpful and important resources about JS and put it t
 * [Mozilla - comprehensive guilde](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - **this will be enough**. If you need more, scroll down.
 
 ## Video
-[![sorax](http://img.youtube.com/vi/H6G63NKRSi8/1.jpg)](https://www.youtube.com/watch?v=H6G63NKRSi8&t=2s){:target="_blank"}
+[![sorax](http://img.youtube.com/vi/H6G63NKRSi8/1.jpg)](https://www.youtube.com/watch?v=H6G63NKRSi8&t=2s)
 
 ## Articles
 
@@ -21,15 +21,15 @@ I have discovered a lot of helpful and important resources about JS and put it t
 * [JSfiddle](http://jsfiddle.net/), [Codepen](http://codepen.io/) - practice & share you code
 
 ## Books
-* [JavaScript: The Definitive Guide, 6th Edition by David Flanagan](http://shop.oreilly.com/product/9780596805531.do){:target="_blank"}
-* [JavaScript: The Good Parts by Douglas Crockford](http://shop.oreilly.com/product/9780596517748.do){:target="_blank"}
+* [JavaScript: The Definitive Guide, 6th Edition by David Flanagan](http://shop.oreilly.com/product/9780596805531.do)
+* [JavaScript: The Good Parts by Douglas Crockford](http://shop.oreilly.com/product/9780596517748.do)
 * [Effective JavaScript by David Herman](https://www.amazon.com/gp/product/0321812182?ie=UTF8&camp=213733&creative=393185&creativeASIN=0321812182&linkCode=shr&tag=ericleads-20&linkId=JIC63I267I6UDQQZ)
-* [Programming JavaScript Applications by Eric Elliot](http://shop.oreilly.com/product/0636920033141.do){:target="_blank"} - but why QUnit? :)
-* Download [Front-End Developer Handbook 2017](https://www.gitbook.com/download/pdf/book/frontendmasters/front-end-handbook-2017){:target="_blank"}
+* [Programming JavaScript Applications by Eric Elliot](http://shop.oreilly.com/product/0636920033141.do) - but why QUnit? :)
+* Download [Front-End Developer Handbook 2017](https://www.gitbook.com/download/pdf/book/frontendmasters/front-end-handbook-2017)
 
 ## Frameworks & libraries
-* ### React
-    [![react+flux](http://img.youtube.com/vi/MhkGQAoc7bc/1.jpg)](https://www.youtube.com/watch?v=MhkGQAoc7bc&t=7s){:target="_blank"}
+### React
+* [React + Flux Tutorial](https://www.youtube.com/watch?v=MhkGQAoc7bc&t=7s) - #video(14 lessons)
 
 ## Preparing for  interview
 * [JavaScript Сomprehensive guide](https://github.com/adam-s/js-interview-review) - full & cool
