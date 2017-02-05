@@ -31,6 +31,12 @@ I have discovered a lot of helpful and important resources about JS and put it t
 ### React
 * [React + Flux Tutorial](https://www.youtube.com/watch?v=MhkGQAoc7bc&t=7s) - #video(14 lessons)
 
-## Preparing for  interview
+## Preparing for interview
 * [JavaScript Сomprehensive guide](https://github.com/adam-s/js-interview-review) - full & cool
 * [React](https://tylermcginnis.com/react-interview-questions/?utm_source=forwebdev&utm_medium=announcement&utm_campaign=voprosy-i-otvety-dlya-sobesedovaniy-o-ton) - general questions
+
+## What about Quiz?
+**Check yourself. Good luck!**
+
+[W3Schools Quiz](http://www.w3schools.com/quiztest/quiztest.asp?qtest=JavaScript) - for begginers
+[David Shariff Quiz](http://davidshariff.com/js-quiz/) - interview style :)
