@@ -3,8 +3,8 @@
 The main goal of this "JS BackPack" to show the simple way of self-development.
 
 ## 1. Start Section
-#### 1.1. Read [This]((https://auth0.com/blog/a-brief-history-of-javascript/)) Article
-
+#### 1.1. Read This Article
+[**Brief History**]((https://auth0.com/blog/a-brief-history-of-javascript/)) 
 #### 1.2. Start Read The Book!
 Choose just One of the Book below or some other Good Book.
 
