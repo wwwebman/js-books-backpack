@@ -1,10 +1,17 @@
 
 ## Content
 
+1. [General Questions](#general-interview-questions)
 1. [Javascript](#javascript-interview-questions)
 1. [Javascript Coding](#javascript-coding-questions)
 1. [HTML](#html-interview-questions)
 1. [CSS](#css-interview-questions)
+
+
+### General Interview Questions
+* What is REST?
+[Answer](http://searchmicroservices.techtarget.com/definition/REST-representational-state-transfer)
+* What is the difference between PUT and PATCH methods in REST?
 
 
 ### Javascript Interview Questions
@@ -17,7 +24,10 @@
 ### Javascript Interview Questions
 
 * What is the JavaScript Event Loop?
-Answer:
+[Answer](http://altitudelabs.com/blog/what-is-the-javascript-event-loop/)
+
+* What is the Event Delegation?
+[Answer](https://davidwalsh.name/event-delegate)
 
 
 ### Javascript Coding Questions
