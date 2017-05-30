@@ -1,4 +1,4 @@
-
+# Front-End Interview Questions
 ## Content
 
 1. [General Questions](#general-interview-questions)
@@ -23,11 +23,9 @@
 
 ### Javascript Interview Questions
 
-* What is the JavaScript Event Loop?
-[Answer](http://altitudelabs.com/blog/what-is-the-javascript-event-loop/)
+* What is the JavaScript Event Loop? - [Answer](http://altitudelabs.com/blog/what-is-the-javascript-event-loop/); [Video Answer](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1244s)
 
-* What is the Event Delegation?
-[Answer](https://davidwalsh.name/event-delegate)
+* What is the Event Delegation? - [Answer](https://davidwalsh.name/event-delegate)
 
 
 ### Javascript Coding Questions
