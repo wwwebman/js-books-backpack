@@ -9,8 +9,7 @@
 
 
 ### General Interview Questions
-* What is REST?
-[Answer](http://searchmicroservices.techtarget.com/definition/REST-representational-state-transfer)
+* What is REST? - [answer](http://searchmicroservices.techtarget.com/definition/REST-representational-state-transfer)
 * What is the difference between PUT and PATCH methods in REST?
 
 
@@ -23,9 +22,9 @@
 
 ### Javascript Interview Questions
 
-* What is the JavaScript Event Loop? - [Answer](http://altitudelabs.com/blog/what-is-the-javascript-event-loop/); [Video Answer](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1244s)
+* What is the JavaScript Event Loop? - [answer](http://altitudelabs.com/blog/what-is-the-javascript-event-loop/), [Philip Roberts answer](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1244s)
 
-* What is the Event Delegation? - [Answer](https://davidwalsh.name/event-delegate)
+* What is the Event Delegation? - [answer](https://davidwalsh.name/event-delegate), [example](https://jsfiddle.net/thisman/h2eqfsx6/)
 
 
 ### Javascript Coding Questions
@@ -34,10 +33,5 @@
 ```javascript
 'javascript'.pipefy()
 ```
+[answer](https://jsfiddle.net/thisman/6ynaf3ot/)
 
-Answer:
-```javascript
-String.prototype.pipefy = function() {
-	return this.split('').join('|');
-}
-```
