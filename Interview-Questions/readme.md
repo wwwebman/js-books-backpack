@@ -2,17 +2,18 @@
 
 ## List of Content
 1. [General Questions](#general-interview-questions)
-1. [Javascript](#javascript-interview-questions)
-1. [Javascript Coding](#javascript-coding-questions)
 1. [HTML](#html-interview-questions)
 1. [CSS](#css-interview-questions)
+1. [Javascript](#javascript-interview-questions)
+1. [Javascript Coding](#javascript-coding-questions)
 
 ## General Interview Questions
-* What is REST? - [answer](http://searchmicroservices.techtarget.com/definition/REST-representational-state-transfer)
-* What is the difference between PUT and PATCH methods in REST?
+1. What is REST? - [answer](http://searchmicroservices.techtarget.com/definition/REST-representational-state-transfer)
+1. What is the difference between PUT and PATCH methods in REST? - [answer](https://stackoverflow.com/questions/21660791/what-is-the-main-difference-between-patch-and-put-request)
+1. What is CORS? - [answer](https://www.maxcdn.com/one/visual-glossary/cors/), [MDN answer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+1. What the main things you can do to increase page speed loading? - [answer](https://www.crazyegg.com/blog/speed-up-your-website/)
 
 ## HTML Interview Questions
-1. What the main things you can do to increase page speed loading?
 
 ## CSS Interview Questions
 1. What different between mobile first and mobile last?
