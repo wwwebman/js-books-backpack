@@ -13,6 +13,7 @@
 1. What is CORS? - [answer](https://www.maxcdn.com/one/visual-glossary/cors/), [MDN answer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 1. What the main things you can do to increase page speed loading? - [answer](https://www.crazyegg.com/blog/speed-up-your-website/)
 1. What is Websocket. Which alternatives do you know? - [answer](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
+1. What is different betweenn application/x-www-form-urlencoded and multipart/form-data?
 
 ## HTML Interview Questions
 
