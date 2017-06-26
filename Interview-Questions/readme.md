@@ -10,10 +10,12 @@
 ## General Interview Questions
 1. What is REST? - [answer](http://searchmicroservices.techtarget.com/definition/REST-representational-state-transfer)
 1. What is the difference between PUT and PATCH methods in REST? - [answer](https://stackoverflow.com/questions/21660791/what-is-the-main-difference-between-patch-and-put-request)
-1. What is CORS? - [answer](https://www.maxcdn.com/one/visual-glossary/cors/), [MDN answer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+1. What is CORS? - [answer](https://www.maxcdn.com/one/visual-glossary/cors/), [answer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 1. What the main things you can do to increase page speed loading? - [answer](https://www.crazyegg.com/blog/speed-up-your-website/)
 1. What is Websocket. Which alternatives do you know? - [answer](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
-1. What is different betweenn application/x-www-form-urlencoded and multipart/form-data? - [answer](https://stackoverflow.com/questions/4007969/application-x-www-form-urlencoded-or-multipart-form-data?answertab=active#tab-top)
+1. What is the difference between application/x-www-form-urlencoded and multipart/form-data? - [answer](https://stackoverflow.com/questions/4007969/application-x-www-form-urlencoded-or-multipart-form-data?answertab=active#tab-top)
+
+
 
 ## HTML Interview Questions
 
@@ -23,6 +25,8 @@
 ## Javascript Interview Questions
 1. What is the JavaScript Event Loop? - [answer](http://altitudelabs.com/blog/what-is-the-javascript-event-loop/), [Philip Roberts answer](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1244s)
 1. What is the Event Delegation? - [answer](https://davidwalsh.name/event-delegate), [example](https://jsfiddle.net/thisman/h2eqfsx6/)
+1. What is EventTarget? - [answer](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget) What is the difference between EventTarget and, for example, XMLHttpRequestEventTarget? - [answer](https://developer.mozilla.org/pl/docs/Web/API/XMLHttpRequestEventTarget)
+1. Why and when event.target and event.currentTarget are not the same? - [answer](https://stackoverflow.com/questions/10086427/what-is-the-exact-difference-between-currenttarget-property-and-target-property), [example](https://jsfiddle.net/thisman/b5n8pj7t/)
 
 
 ## Javascript Coding Questions
