@@ -10,6 +10,7 @@ Books Every [JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/) 
 |["Programming JavaScript Applications"](http://shop.oreilly.com/product/9780596517748.do) by Eric Elliot|The book contain great code examples, unit test, right theoretical aspects|Outdated|Beginner, experienced|
 |["JavaScript Patterns: Build Better Applications with Coding and Design Patterns"](https://github.com/getify/You-Dont-Know-JS) by Stoyan Stefanov|Good code practices|-|Experienced|
 |["You Don’t Know JS"](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson| This book will help you deeper understanding of JavaScript, also is available on Github.|-|Experienced|
+|["Exploring ES6"](http://exploringjs.com/es6/index.html) by dr. Axel Rauschmayer| The most comprehensive book on ES6.|-|You decide how deep to go|
 
 ### Contributing
 Please make pull requests with the book which worth attention.
